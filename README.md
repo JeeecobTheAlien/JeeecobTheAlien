@@ -69,7 +69,7 @@ Top Projects I've Contifuted To
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&height=192px&text_color=ffffff)
+![My Stats](https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&height=192px&border_color=ffffff)
 </br>
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact&height=192px)
 </br>
