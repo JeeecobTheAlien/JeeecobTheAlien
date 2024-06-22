@@ -88,10 +88,10 @@
 </details>
 
 <details>
-  <summary><h2>⚡ Creditidable Sources</h2></summary>
+  <summary><h3>⚡ Creditidable Sources</h3></summary>
   
-<-- Badges are from http://github.com/Ileriayo/markdown-badges -->
-<-- Stat Cards https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card -->
+<-- Badges are from http://github.com/Ileriayo/markdown-badges --> <br/>
+<-- Stat Cards https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card --> <br/>
 <--  -->
 <--  -->
 <--  -->
