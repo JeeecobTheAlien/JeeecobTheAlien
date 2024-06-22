@@ -39,6 +39,7 @@
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&logo=lua&logoColor=white" height="27" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="27" />
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white" height="27" />
+    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white" height="27" />
   </p>
   
   <h3>💻 Software and Tools</h3>
