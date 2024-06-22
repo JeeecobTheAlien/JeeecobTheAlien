@@ -4,11 +4,11 @@
 <details open>
   <summary><h2>📘 About Me:</h2></summary>
   <p>
-    Hey Welcome to mY Github, where you can observe all my active personal projects and school projects, If Computer Setups, Mechanics or Code based programs interest you then you have came to the right place!
+    Hey Welcome to my Github, where you can observe all my active personal projects and school projects ranging from Computer Setup designs, Mechanics or Code based programs there should be a good variation to interest you here!
 
 🔭 I’m currently working on my project "Mindwave" which is still a work in progress later this year I hope to be able to share it here! <br/>
 🌱 Currently on the way of learning and mastering new languages such as; C, and Chef and diving deeper into the Front End space. <br/>
-⚡ When I'm not focused on Front End, uou'll probably find me Building/Designing Computer builds or messing with Mechanics. <br/>
+⚡ When I'm not focused on Front End, you'll probably find me Building/Designing Computer builds or messing with Mechanics. <br/>
   </p>
 </details>
 
