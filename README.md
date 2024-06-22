@@ -65,7 +65,7 @@ Top Projects I've Contifuted To
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://DenverCoder1-github-readme-stats.vercel.app/api/?username=JeeecobTheAlien&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
 
 <a><img![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&show_icons=true&theme=radical)height="192px"/></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JeeecobTheAlien)](https://git.io/streak-stats)
 
