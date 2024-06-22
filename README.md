@@ -77,7 +77,7 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
   
-<h3>🔥 Streak Stats</h3>
+<h3>💻 Github Profile Stats</h3>
 <p align="Left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=aura_dark&count_private=true&hide_border=true&show_icons=true" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeeecobTheAlien&theme=aura_dark&show_icons=true&hide_border=true&locale=en&layout=compact" align = "center"/>
