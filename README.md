@@ -81,6 +81,6 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeeecobTheAlien&theme=aura_dark&show_icons=true&locale=en&layout=compact" align = "center"/>
 </p>
 
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </details>
 
