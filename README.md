@@ -30,6 +30,7 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&logo=lua&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
+    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white" />
   </p>
   
   <h3>💻 Software and Tools</h3>
