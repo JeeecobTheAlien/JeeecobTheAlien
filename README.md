@@ -71,9 +71,9 @@ Top Projects I've Contifuted To
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&height=200)
 </br>
-![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact&height=200)
 </br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeeecobTheAlien&theme=shadow_red&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeeecobTheAlien&theme=shadow_red&hide_border=false&height=200)
 
 
 
