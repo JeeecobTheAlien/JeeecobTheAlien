@@ -39,7 +39,9 @@
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white" height="27" />
     <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&logo=typescript&logoColor=white" height="27" />
     <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white" height="27" />
-    <img alt="Chef" src="https://img.shields.io/badge/Chef-F09820?logo=chef&logoColor=fff&style=flat)" height="27" />
+    <img alt="Chef" src="https://img.shields.io/badge/Chef-F09820?logo=chef&logoColor=fff&style=flat" height="27" />
+    <img alt="EJS" src="https://img.shields.io/badge/EJS-B4CA65?logo=ejs&logoColor=fff&style=flat" height="27" />
+    <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white" height="27" />
   </p>
   
   <h3>💻 Software and Tools</h3>
