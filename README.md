@@ -17,10 +17,10 @@
 
   <p>
      <a href="https://www.linkedin.com/in/jacob-jesso-4485ab2a9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=" height="30" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=" height="27" alt="linkedin logo"  />
   </a>
      <a href="https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-homepage" target="_blank">
-    <img src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" height="30" alt="Indeed logo"  />
+    <img src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" height="27" alt="Indeed logo"  />
   </a>
   </p>
 </details>
@@ -32,35 +32,35 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="25" />
-    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="30" />
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="30" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="30" />
-    <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&logo=lua&logoColor=white" height="30" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="30" />
-    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white" height="30" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="27" />
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" height="27" />
+    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" height="27" />
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" height="27" />
+    <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&logo=lua&logoColor=white" height="27" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" height="27" />
+    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&logo=markdown&logoColor=white" height="27" />
   </p>
   
   <h3>💻 Software and Tools</h3>
 
   <p>
-    <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&logo=adobe&logoColor=white" height="30" />
+    <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&logo=adobe&logoColor=white" height="27" />
     <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white" height="27" />
-    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="30" />
-    <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white" height="30" />
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="30" />
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" height="30" />
-    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white" height="30" />
-    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white" height="30" />
-    <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?&logo=blender&logoColor=white" height="30" />
-    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" height="30" />
-    <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?&logo=pycharm&logoColor=black&color=black&labelColor=green" height="30" />
-    <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?&logo=macos&logoColor=F0F0F0" height="30" />
-    <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?&logo=ios&logoColor=white" height="30" />
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" height="30" />
-    <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?&logo=Opera&logoColor=white" height="30" />
-    <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?&logo=Safari&logoColor=white" height="30" />
-    <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?&logo=openai&logoColor=white" height="30" />
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" height="27" />
+    <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white" height="27" />
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white" height="27" />
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" height="27" />
+    <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white" height="27" />
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white" height="27" />
+    <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?&logo=blender&logoColor=white" height="27" />
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" height="27" />
+    <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?&logo=pycharm&logoColor=black&color=black&labelColor=green" height="27" />
+    <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?&logo=macos&logoColor=F0F0F0" height="27" />
+    <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?&logo=ios&logoColor=white" height="27" />
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" height="27" />
+    <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?&logo=Opera&logoColor=white" height="27" />
+    <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?&logo=Safari&logoColor=white" height="27" />
+    <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?&logo=openai&logoColor=white" height="27" />
   </p>
 </details>
 
