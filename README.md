@@ -42,6 +42,7 @@
     <img alt="Chef" src="https://img.shields.io/badge/Chef-F09820?logo=chef&logoColor=fff&style=flat" height="27" />
     <img alt="EJS" src="https://img.shields.io/badge/EJS-B4CA65?logo=ejs&logoColor=fff&style=flat" height="27" />
     <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&logo=openjdk&logoColor=white" height="27" />
+    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" height="27" />
   </p>
   
   <h3>💻 Software and Tools</h3>
@@ -66,6 +67,8 @@
     <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?&logo=openai&logoColor=white" height="27" />
     <img alt="AMD" src="https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=flat" height="27" />
     <img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=flat" height="27" />
+    <img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=flat" height="27" />
+    <img alt="Framer" src="https://img.shields.io/badge/Framer-05F?logo=framer&logoColor=fff&style=flat" height="27" />
   </p>
 </details>
 
