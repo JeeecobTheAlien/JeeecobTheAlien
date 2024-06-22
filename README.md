@@ -62,6 +62,8 @@
     <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?&logo=Opera&logoColor=white" height="27" />
     <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?&logo=Safari&logoColor=white" height="27" />
     <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?&logo=openai&logoColor=white" height="27" />
+    <img alt="AMD" src="https://img.shields.io/badge/AMD-ED1C24?logo=amd&logoColor=fff&style=flat" height="27" />
+    <img alt="Shopify" src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=flat" height="27" />
   </p>
 </details>
 
@@ -91,10 +93,8 @@
 <details>
   <summary><h3>⚡ Creditidable Sources</h3></summary>
   
-<-- Badges are from; http://github.com/Ileriayo/markdown-badges --> <br/>
+<-- Some badges are from; http://github.com/Ileriayo/markdown-badges --> <br/>
+<-- And from; https://badges.pages.dev --> <br/>
 <-- Stat Cards; https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card --> <br/>
-<--  -->
-<--  -->
-<--  -->
 
 </details>
