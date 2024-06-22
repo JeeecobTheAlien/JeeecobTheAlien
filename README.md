@@ -78,7 +78,7 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
 
 <p align="Left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=rising-sun&count_private=true&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeeecobTheAlien&theme=rising-sun&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeeecobTheAlien&theme=rising sun&show_icons=true&locale=en&layout=compact" align = "center"/>
 </p>
 </details>
 
