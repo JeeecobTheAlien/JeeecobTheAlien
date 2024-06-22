@@ -65,15 +65,14 @@ Top Projects I've Contifuted To
  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p>
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-     [![GitHub Streak](https://streak-stats.demolab.com/?user=JeeecobTheAlien)](https://git.io/streak-stats)
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
-![](https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
+![My Stats](https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+</br>
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
- 
+</br>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeeecobTheAlien&theme=dark&hide_border=false)
 
 
