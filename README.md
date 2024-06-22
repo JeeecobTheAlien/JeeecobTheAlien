@@ -13,7 +13,7 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
   <h3> Programming and Markup Languages</h3>
 
   <p>
-    <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white" />
+    <img align="left" alt="Git" width="30px" style="padding-right:40px;" src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&logoColor=white" />
   </p>
 
 Contact Me:
