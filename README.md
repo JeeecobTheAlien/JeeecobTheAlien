@@ -69,6 +69,9 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
   <summary><h2>📊 Stats and Activity</h2></summary>
 <p>
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+  <p align="Left">
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  </p>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
@@ -77,9 +80,8 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=aura_dark&count_private=true&show_icons=true" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeeecobTheAlien&theme=aura_dark&show_icons=true&locale=en&layout=compact" align = "center"/>
 </p>
+
      
-<br/>
-</br>
 ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </details>
 
