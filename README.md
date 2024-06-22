@@ -57,5 +57,10 @@ My Top Open Source Projects
 
 Top Projects I've Contifuted To
 
-Stats and Activity
+<details>
+<summary><h2>📊 Stats and Activity</h2></summary>
+
+![](https://github-readme-stats.vercel.app/api?usernameJeeecobTheAlien=&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+</details>
 
