@@ -13,11 +13,10 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
 
   <p>
      <a href="https://www.linkedin.com/in/jacob-jesso-4485ab2a9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=" height="25" alt="linkedin logo"  />
   </a>
-    <img alt="Indeed" src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" />
      <a href="https://www.hackerrank.com/vanessa_rice" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
+    <img src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" height="35" alt="Indeed logo"  />
   </a>
   </p>
 </details>
