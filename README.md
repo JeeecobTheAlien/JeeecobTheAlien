@@ -11,7 +11,7 @@
 ⚡ When I'm not focused on Front End, you'll probably find me Building/Designing Computer builds or messing with Mechanics. <br/>
   </p>
 </details>
-
+---
 <details>
 <summary><h2>💬 Contact Me:</h2></summary>
 
