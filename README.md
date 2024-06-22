@@ -17,6 +17,10 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
+    <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&logo=lua&logoColor=white" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
   </p>
   
@@ -31,6 +35,14 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
     <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white" />
     <img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white" />
     <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white" />
+    <img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?&logo=blender&logoColor=white" />
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white" />
+    <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?&logo=pycharm&logoColor=black&color=black&labelColor=green" />
+    <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?&logo=macos&logoColor=F0F0F0" />
+    <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?&logo=ios&logoColor=white" />
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" />
+    <img alt="Indeed" src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" />
   </p>
 </details>
 
