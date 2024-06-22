@@ -13,8 +13,8 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
   <h3> Programming and Markup Languages</h3>
 
   <p>
-    <img align="left" alt="CSS" width="90px" style="padding-right:10px;" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
-    <img align="left" alt="HTML" width="90px" style="padding-right:10px;" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
+    <img align="left" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" />
+    <img align="left" alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
     <img align="left" alt="Node.js" width="90px" style="padding-right:10px;" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
     <img align="left" alt="Python" width="90px" style="padding-right:10px;" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
     <img align="left" alt="Python" width="90px" style="padding-right:10px;" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
