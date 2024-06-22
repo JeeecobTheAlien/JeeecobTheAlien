@@ -12,7 +12,7 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
 <summary><h2>💬 Contact Me:</h2></summary>
 
   <p>
-     <a href="https://www.linkedin.com/in/ricevanessa" target="_blank">
+     <a href="https://www.linkedin.com/in/jessojacob" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=" height="35" alt="linkedin logo"  />
   </a>
     <img alt="Indeed" src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" />
