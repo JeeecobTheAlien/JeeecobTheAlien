@@ -28,15 +28,12 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
     <img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?&logo=lua&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
   </p>
   
   <h3>💻 Software and Tools</h3>
 
   <p>
-    <img alt="Adobe" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
+    <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?&logo=adobe&logoColor=white" />
     <img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white" />
     <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white" />
@@ -50,6 +47,9 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
     <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?&logo=macos&logoColor=F0F0F0" />
     <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?&logo=ios&logoColor=white" />
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
+    <img alt="Opera" src="https://img.shields.io/badge/Opera-FF1B2D?&logo=Opera&logoColor=white" />
+    <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?&logo=Safari&logoColor=white" />
+    <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?&logo=openai&logoColor=white" />
   </p>
 </details>
 
