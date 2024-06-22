@@ -70,18 +70,15 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
 <p>
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
   <p align="Left">
-    <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=JeeecobTheAlien&theme=midnight-purple&hide_border=false"/>
+    <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=JeeecobTheAlien&theme=rising-sun&hide_border=false"/>
   </p>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
 <p align="Left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=aura_dark&count_private=true&show_icons=true" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeeecobTheAlien&theme=aura_dark&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=rising-sun&count_private=true&show_icons=true" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeeecobTheAlien&theme=rising-sun&show_icons=true&locale=en&layout=compact" align = "center"/>
 </p>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeeecobTheAlien&theme=midnight-purple&hide_border=false)
-
 </details>
 
