@@ -70,7 +70,7 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
 <p>
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
   <p align="Left">
-    <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=JeeecobTheAlien&theme=aura-dark&hide_border=false"/>
+    <img height="180cm" src="https://github-readme-streak-stats.herokuapp.com/?user=JeeecobTheAlien&theme=aura-dark&hide_border=true"/>
   </p>
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
