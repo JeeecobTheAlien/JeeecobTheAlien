@@ -12,9 +12,9 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
 <summary><h2>💬 Contact Me:</h2></summary>
 
   <p>
-    <a hre="https://www.linkedin.com/in/jessojacob" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" height="35" alt="linkedIn logo" />
-    </a>
+     <a href="https://www.linkedin.com/in/ricevanessa" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=" height="35" alt="linkedin logo"  />
+  </a>
     <img alt="Indeed" src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" />
      <a href="https://www.hackerrank.com/vanessa_rice" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
