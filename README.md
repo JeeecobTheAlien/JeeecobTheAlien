@@ -17,10 +17,10 @@
 
   <p>
      <a href="https://www.linkedin.com/in/jacob-jesso-4485ab2a9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=" height="30" alt="linkedin logo"  />
   </a>
      <a href="https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-homepage" target="_blank">
-    <img src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" height="25" alt="Indeed logo"  />
+    <img src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" height="30" alt="Indeed logo"  />
   </a>
   </p>
 </details>
@@ -32,7 +32,7 @@
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
-    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="25" />
+    <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white" height="30" />
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white" />
     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
