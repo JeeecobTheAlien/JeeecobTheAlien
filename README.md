@@ -12,7 +12,7 @@
   </p>
 </details>
 
-<details>
+<details open>
 <summary><h2>💬 Contact Me:</h2></summary>
 
   <p>
@@ -27,8 +27,6 @@
 
 <details>
   <summary><h2>🛠️ My Favourite Tools</h2></summary>
-  <-- Some badges are from http://github.com/Ileriayo/markdown-badges -->
-
   <h3>👨‍💻 Programming and Markup Languages</h3>
 
   <p>
@@ -89,4 +87,13 @@
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
 
+<details>
+  <summary><h2>⚡ Creditidable Sources</h2></summary>
+  
+<-- Badges are from http://github.com/Ileriayo/markdown-badges -->
+<-- Stat Cards https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#github-stats-card -->
+<--  -->
+<--  -->
+<--  -->
 
+</details>
