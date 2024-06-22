@@ -67,5 +67,7 @@ Top Projects I've Contifuted To
 <a><img![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&show_icons=true&theme=radical)height="192px"/></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&layout=compact)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JeeecobTheAlien)](https://git.io/streak-stats)
+
 </details>
 
