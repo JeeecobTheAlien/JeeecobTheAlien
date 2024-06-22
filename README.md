@@ -62,8 +62,7 @@ Top Projects I've Contifuted To
 <details>
 <summary><h2>📊 Stats and Activity</h2></summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&show_icons=true&theme=radical)
-<a>[![JeeecobTheAlien's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien)](https://github.com/anuraghazra/github-readme-stats)</a>
+<a><img![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&show_icons=true&theme=radical) height="192px"/></a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&layout=compact)
 
 </details>
