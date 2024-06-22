@@ -13,7 +13,7 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
 
   <p>
     <a hre="https://www.linkedin.com/in/jacob-jesso-4485ab2a9/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Logo"/>
+    <img src="https://img.shields.io/static/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" height="35" alt="linkedIn logo" />
     </a>
     <img alt="Indeed" src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" />
   </p>
