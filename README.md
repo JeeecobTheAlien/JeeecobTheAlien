@@ -11,6 +11,7 @@
 ⚡ When I'm not focused on Front End, you'll probably find me Building/Designing Computer builds or messing with Mechanics. <br/>
   </p>
 </details>
+
 <details>
 <summary><h2>💬 Contact Me:</h2></summary>
 
@@ -23,6 +24,7 @@
   </a>
   </p>
 </details>
+
 <details>
   <summary><h2>🛠️ My Favourite Tools</h2></summary>
   <-- Some badges are from http://github.com/Ileriayo/markdown-badges -->
