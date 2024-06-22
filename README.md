@@ -1,12 +1,16 @@
 # Jacob Jesso
 
 **`Digital Designer (FrontEnd/Design/Marketing)`**
+<details open>
+  <summary><h2>📘 About Me:</h2></summary>
+  <p>
+    Hey Welcome to mY Github, where you can observe all my active personal projects and school projects, If Computer Setups, Mechanics or Code based programs interest you then you have came to the right place!
 
-About Me: Hey Welcome to me Github, where you can observe all my active personal projects and school projects, If Computer Setups, Mechanics or Code based programs interest you then you have came to the right place!
-
-🔭 I’m currently working on my project "Mindwave" which is still a work in progress later this year I hope to be able to share it here! <br/>
-🌱 Currently on the way of learning and mastering new languages such as; C, and Chef and diving deeper into the Front End space. <br/>
-⚡ When I'm not focused on Front End, uou'll probably find me Building/Designing Computer builds or messing with Mechanics. <br/>
+   🔭 I’m currently working on my project "Mindwave" which is still a work in progress later this year I hope to be able to share it here! <br/>
+   🌱 Currently on the way of learning and mastering new languages such as; C, and Chef and diving deeper into the Front End space. <br/>  
+   ⚡ When I'm not focused on Front End, uou'll probably find me Building/Designing Computer builds or messing with Mechanics. <br/>
+  </p>
+</details>
 
 <details>
 <summary><h2>💬 Contact Me:</h2></summary>
@@ -58,16 +62,6 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
     <img alt="Safari" src="https://img.shields.io/badge/Safari-000000?&logo=Safari&logoColor=white" />
     <img alt="ChatGPT" src="https://img.shields.io/badge/chatGPT-74aa9c?&logo=openai&logoColor=white" />
   </p>
-</details>
-
-<details open>
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
-
-</details>
-
-<details open>
-  <summary><h2>📕 Top Projects I've Conrtibuted To</h2></summary>
-
 </details>
 
 <details>
