@@ -66,7 +66,7 @@ Top Projects I've Contifuted To
 <p>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" (https://streak-stats.demolab.com/?user=JeeecobTheAlien)](https://git.io/streak-stats)/>
+     [![GitHub Streak](https://streak-stats.demolab.com/?user=JeeecobTheAlien)](https://git.io/streak-stats)
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
