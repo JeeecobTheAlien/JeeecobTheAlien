@@ -84,6 +84,8 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=aura_dark&count_private=true&hide_border=true&show_icons=true" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeeecobTheAlien&theme=aura_dark&show_icons=true&hide_border=true&locale=en&layout=compact" align = "center"/>
 </p>
-</details>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+
