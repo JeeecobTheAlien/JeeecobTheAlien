@@ -64,23 +64,19 @@ Top Projects I've Contifuted To
 
  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
      [![GitHub Streak](https://streak-stats.demolab.com/?user=JeeecobTheAlien)](https://git.io/streak-stats)
     </a>
     <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JeeecobTheAlien's Github Stats" src="https://DenverCoder1-github-readme-stats.vercel.app/api/?username=JeeecobTheAlien&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="JeeecobTheAlien's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-
 ![](https://github-readme-stats.vercel.app/api?username=JeeecobTheAlien&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=JeeecobTheAlien&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
  
-![](https://github-readme-streak-stats.herokuapp.com/?user=JeeecobTheAlien&theme=dark&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeeecobTheAlien&theme=dark&hide_border=false)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JeeecobTheAlien=dark&hide_border=false)](https://git.io/streak-stats)
+
 
 </details>
 
