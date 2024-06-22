@@ -7,6 +7,15 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
 🔭 I’m currently working on my project "Mindwave" which is still a work in progress later this year I hope to be able to share it here! 🌱 Currently on the way of learning and mastering new languages such as; C, and Chef and diving deeper into the Front End space. ⚡ When I'm not focused on Front End, uou'll probably find me Building/Designing Computer builds or messing with Mechanics.
 
 <details>
+<summary><h2>💬 Contact Me:</h2></summary>
+
+  <p>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" />
+    <img alt="Indeed" src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" />
+  </p>
+</details>
+
+<details>
   <summary><h2>🛠️ My Favourite Tools</h2></summary>
   <-- Some badges are from http://github.com/Ileriayo/markdown-badges -->
 
@@ -41,12 +50,8 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
     <img alt="macOS" src="https://img.shields.io/badge/mac%20os-000000?&logo=macos&logoColor=F0F0F0" />
     <img alt="iOS" src="https://img.shields.io/badge/iOS-000000?&logo=ios&logoColor=white" />
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?&logo=windows&logoColor=white" />
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" />
-    <img alt="Indeed" src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" />
   </p>
 </details>
-
-Contact Me:
 
 My Top Open Source Projects
 
