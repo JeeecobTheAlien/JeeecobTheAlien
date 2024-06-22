@@ -15,8 +15,8 @@ About Me: Hey Welcome to me Github, where you can observe all my active personal
      <a href="https://www.linkedin.com/in/jacob-jesso-4485ab2a9" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=" height="25" alt="linkedin logo"  />
   </a>
-     <a href="https://www.hackerrank.com/vanessa_rice" target="_blank">
-    <img src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" height="35" alt="Indeed logo"  />
+     <a href="https://profile.indeed.com/?hl=en_CA&co=CA&from=gnav-homepage" target="_blank">
+    <img src="https://img.shields.io/badge/indeed-003A9B?&logo=indeed&logoColor=white" height="25" alt="Indeed logo"  />
   </a>
   </p>
 </details>
